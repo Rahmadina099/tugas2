@@ -1,0 +1,27 @@
+.header {
+    background-color: orange;
+    font-size: large;
+    font-weight: bold;
+    color: aliceblue;
+    height: 50px;
+}
+.container {
+    display: flex;
+    height: 600px;
+}
+.sidebar-left {
+    font-weight: bold;
+    background-color: rgb(247, 189, 0);
+    height: 600px;
+    width: 95px;
+
+}
+.footer{
+    background-color: orange;
+}
+
+.content{
+    background-color: rgb(195, 225, 252);
+    width:1500px;
+    height: 600px;
+}
